@@ -1,0 +1,8 @@
+#map {
+  height: 100vh;
+}
+
+.map-popup {
+  width: 300px;
+  min-height: 150px;
+}

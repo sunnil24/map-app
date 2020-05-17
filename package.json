@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  },
+  "name": "ts-webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/faker": "^4.1.12",
+    "@types/googlemaps": "^3.39.5",
+    "faker": "^4.1.0"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
